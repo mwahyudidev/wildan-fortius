@@ -1,0 +1,22 @@
+.rbc-month-view {
+    border: none !important;
+}
+.rbc-header {
+    padding: 10px 5px;
+    text-align: right;
+    border-left: none !important;
+}
+
+.rbc-day-bg + .rbc-day-bg {
+    border-left: none !important;
+}
+
+.rbc-header span {
+    text-align: right;
+}
+
+.rbc-event, .rbc-day-slot .rbc-background-event {
+    font-size: 10pt;
+    background-color: #f0f9ff;
+    color: #374151
+}

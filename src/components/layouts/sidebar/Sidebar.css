@@ -1,0 +1,24 @@
+#sidebar ul li {
+    padding: 10px;
+}
+
+#sidebar ul li.logo {
+    padding-bottom: 20px;
+}
+
+#sidebar ul li.menu {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    padding: 10px 10px;
+    margin-bottom: 10px;
+}
+
+#sidebar ul li.menu .icon {
+    font-size: 18pt;
+}
+
+#sidebar ul li.menu span.title {
+    font-size: 12pt;
+    font-weight: 600;
+}
